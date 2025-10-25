@@ -33,5 +33,3 @@ Run `task.ipynb` stepwise for analysis or customize scripts for your own data.
 Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 This project is licensed under the MIT License.
-## Contact
-For questions or feedback, please contact the repository owner.
